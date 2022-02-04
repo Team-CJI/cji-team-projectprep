@@ -1,5 +1,9 @@
 # cji-team-projectprep
 
+https://docs.google.com/presentation/d/1s9JyuIhOr__LgBYEA92wFs3N-v22zAtj8XRUrFoqLag/edit#slide=id.g2accd1c413_3_31
+
+https://trello.com/b/liAU7Ltc/301-final-project
+
 ## Cooperation Plan
 
 * Jacob
