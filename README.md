@@ -1,9 +1,5 @@
 # cji-team-projectprep
 
-https://docs.google.com/presentation/d/1s9JyuIhOr__LgBYEA92wFs3N-v22zAtj8XRUrFoqLag/edit#slide=id.g2accd1c413_3_31
-
-https://trello.com/b/liAU7Ltc/301-final-project
-
 ## Cooperation Plan
 
 * Jacob
@@ -57,5 +53,5 @@ Before anything gets coded tasks are project managed out to the individuals in w
 * Will you be using a PR review workflow? If so, consider:
 * How many people must review a PR? No PR review needed.
 * Who merges PRs? whoever did not create the branch being pulled.
-* How often will you merge? after each PR.
+* How often will you merge? after each task completion.
 * How will you communicate that it’s time to merge? pair programming.
